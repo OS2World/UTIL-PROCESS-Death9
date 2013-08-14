@@ -1,0 +1,26 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: DEATH9.ZIP 
+       Short Description: WatchCat plugin that does a hard-kill on processes
+        Long Description: Death (originally by Holger Veit). Compiled as WatchCat plugin DLL from sources of death.exe (originally by Daniel Krueger, daniel.krueger@web.de)
+      Proposed directory
+           for placement: /pub/os2/util/process
+
+               Your name: Alexander Belyaev
+           Email address: isle@free.kursknet.ru
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2 3.0, 4.X
+ Additional requirements: xf86sup.sys, WatchCat 2.1
+
+                Replaces: (none)
+
+
+

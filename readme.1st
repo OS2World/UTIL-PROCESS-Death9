@@ -1,0 +1,29 @@
+
+0. Preface
+This package contains WatchCat module death.dll which allows to kill
+processes with help of xf86sup.sys.
+Original utility (death.exe) was written by Daniel Krueger. 
+And he called it DEATH.
+
+I'd slightly modified sources and compiled them as WatchCat plugin.
+
+1. Installation
+   Ensure that you have device=x:\path\xf86sup.sys in your config.sys
+   Copy death.dll into WatchCat directory
+   Kill detached instance of watchcat.exe then detach watchcat.exe
+   (or restart OS/2)
+   To kill process use WatchCat menu Add-On->Death Window
+
+2. Credits
+ Thanks to
+  Felix von Normann      (WatchCat author)
+  Holger Veit            (for great work with XFree86)
+  Daniel Krueger         (for Death module)
+  OpenWatcom.Org         (for Watcom C reincarnation)
+  Sergey I. Yevtushenko  (for editor fEd)
+
+3. About
+ Alexander Belyaev
+ isle@free.kursknet.ru
+ 2:5035/13.15
+  
